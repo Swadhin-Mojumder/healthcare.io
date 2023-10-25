@@ -1,0 +1,71 @@
+.container{
+    margin: 50px;
+    padding: 10px;
+    margin-right: 500px;
+}
+.head{
+    background-color: blue;
+    color: white;
+    padding: 8px;
+}
+.price{
+    padding: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.detelis{
+    font-size: 17px;
+}
+.icon{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+}
+.ss{
+    color: rgb(0, 0, 0);
+    background-color: beige;
+    font-size: 20px;
+    font-weight: bold;
+}
+.pro{
+    font-size: 17px;
+}
+hr{
+    border: 1px solid black;
+    
+}
+.when{
+    font-weight: bolder;
+    padding: 5px;
+    font-size: 20px;
+}
+.whp{
+    font-size: 17px;
+}
+.test{
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.testp{
+    font-size: 17px;
+}
+.sim{
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.res{
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.simp{
+    font-size: 17px;
+}
+.simp{
+    font-size: 17px;
+}
+.resp{
+    font-size: 17px;
+}
